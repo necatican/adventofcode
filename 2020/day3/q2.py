@@ -13,7 +13,7 @@ for line in lines:
 for rule in rules:
     right_steps = rule[0]
     down_steps = rule[1]
-    print(right_steps, down_steps)
+
     cursor = 0
     tree_count = 0
     i = 0
