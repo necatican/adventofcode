@@ -50,7 +50,8 @@ You don't need to identify the questions to which anyone answered "yes"; you nee
 
 Using the same example as above:
 
-`abc
+```
+abc
 
 a
 b
@@ -64,7 +65,8 @@ a
 a
 a
 
-b`
+b
+```
 
 This list represents answers from five groups:
 
